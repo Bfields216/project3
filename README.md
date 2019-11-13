@@ -1,4 +1,4 @@
-# project3
+# DrinksonUs
 
 Drinkson is an mobile web app that allows users to checkin to a bar and order drinks via the mobile app with the tap of your finger. You can alsosedn drinks to other users that have checked in to the same location. 
 - pay with your phone - apple pay, paypal
